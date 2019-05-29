@@ -4,3 +4,4 @@ Hello World test
 function whoami()
 {return $this -> mark;
 }
+?>
